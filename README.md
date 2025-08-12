@@ -44,14 +44,5 @@ Specialties:
 
 ---
 
-## 🚀 Highlighted Experience
-- Reduced monolith load by **30%** via microservices migration  
-- Integrated **S3** for file storage and management  
-- Set up **CI/CD pipelines** for automated deployment  
-- Optimized API performance with **Redis caching**  
-- Moved heavy API logic to **Celery tasks**, reducing response time  
-
----
-
 💬 **Let’s connect!**  
 If you're building something exciting, I’d love to help design and scale your backend systems.
